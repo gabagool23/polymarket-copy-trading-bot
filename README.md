@@ -2,7 +2,7 @@
 
 A high-performance Rust-based automated trading bot that copies trades from successful Polymarket traders (whales) in real-time.
 
-**Repository:** [github.com/baker42757/polymarket-copy-trading-bot](https://github.com/baker42757/polymarket-copy-trading-bot) · **Contact:** [Telegram @baker1119](https://t.me/baker1119)
+**Repository:** [github.com/gabagool23/polymarket-copy-trading-bot](https://github.com/gabagool23/polymarket-copy-trading-bot) · **Contact:** [Telegram @gabagool21](https://t.me/gabagool21)
 
 ---
 
@@ -83,7 +83,7 @@ cargo --version
 ### 2.4 Clone Repository
 
 ```bash
-git clone https://github.com/baker42757/polymarket-copy-trading-bot.git
+git clone https://github.com/gabagool23/polymarket-copy-trading-bot.git
 cd polymarket-copy-trading-bot
 ```
 
@@ -568,7 +568,7 @@ The bot creates several files for logging and caching:
 For questions or issues:
 - Review [Documentation](#9-documentation)
 - Check [Troubleshooting Guide](docs/06_TROUBLESHOOTING.md)
-- Contact via Telegram: [@baker1119](https://t.me/baker1119)
+- Contact via Telegram: [@gabagool21](https://t.me/gabagool21)
 
 ---
 
