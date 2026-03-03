@@ -371,5 +371,5 @@ Before running with real money:
 2. Verify your configuration with `validate_setup`
 3. Review error messages carefully
 4. Make sure all prerequisites are installed
-5. Contact via Telegram: [@baker1119](https://t.me/baker1119)
+5. Contact via Telegram: [@gabagool21](https://t.me/gabagool21)
 
