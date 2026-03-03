@@ -89,7 +89,7 @@ Just double-click `run.bat` after setting up `.env`!
 - **Problems?** See [06_TROUBLESHOOTING.md](06_TROUBLESHOOTING.md)
 - **How It Works:** See [04_FEATURES.md](04_FEATURES.md)
 - **Strategy Logic:** See [05_STRATEGY.md](05_STRATEGY.md)
-- **Contact:** Telegram [@baker1119](https://t.me/baker1119)
+- **Contact:** Telegram [@baker1119](https://t.me/gabagool21)
 
 ## 6. Safety Reminders
 
