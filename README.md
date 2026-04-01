@@ -2,8 +2,6 @@
 
 A high-performance Rust-based automated trading bot that copies trades from successful Polymarket traders (whales) in real-time.
 
-**X Article** https://x.com/jerrix111/status/2028923175552082153
-**Medium Article** https://medium.com/p/e4df1acea791?postPublishedType=initial
 **Repository:** [github.com/Poly-Tutor/polymarket-copy-trading-bot](https://github.com/Poly-Tutor/polymarket-copy-trading-bot) ·
 **Contact:** [Telegram @AlterEgo_Eth](https://t.me/AlterEgo_Eth)
 
