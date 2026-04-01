@@ -24,6 +24,15 @@ A high-performance Rust-based automated trading bot that copies trades from succ
 
 ---
 
+## How to run copy trading bot
+
+
+
+https://github.com/user-attachments/assets/f7a9a19f-525e-4e52-b06d-3a6bdb39e35f
+
+
+---
+
 ## 1. Quick Start
 
 **For beginners:** Follow these 5 steps to get started:
