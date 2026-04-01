@@ -525,7 +525,7 @@ TARGET_WHALE_ADDRESS=204f72f35326db932158cba6adff0b9a1da95e14
 4. **Report bug:**
    - Save error message
    - Note what you were doing
-   - Open an issue on [GitHub](https://github.com/baker42757/polymarket-copy-trading-bot) or contact via Telegram: [@baker1119](https://t.me/baker1119)
+   - Open an issue on [GitHub](https://github.com/Poly-Tutor/polymarket-copy-trading-bot) or contact via Telegram: [@AlterEgo_Eth](https://t.me/AlterEgo_Eth)
 
 ---
 

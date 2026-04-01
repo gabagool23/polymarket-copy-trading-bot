@@ -4,8 +4,8 @@ A high-performance Rust-based automated trading bot that copies trades from succ
 
 **X Article** https://x.com/jerrix111/status/2028923175552082153
 **Medium Article** https://medium.com/p/e4df1acea791?postPublishedType=initial
-**Repository:** [github.com/gabagool23/polymarket-copy-trading-bot](https://github.com/gabagool23/polymarket-copy-trading-bot) ·
-**Contact:** [Telegram @gabagool21](https://t.me/gabagool21)
+**Repository:** [github.com/Poly-Tutor/polymarket-copy-trading-bot](https://github.com/Poly-Tutor/polymarket-copy-trading-bot) ·
+**Contact:** [Telegram @AlterEgo_Eth](https://t.me/AlterEgo_Eth)
 
 ---
 
@@ -35,7 +35,7 @@ A high-performance Rust-based automated trading bot that copies trades from succ
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # 2. Clone the repository
-git clone https://github.com/baker42757/polymarket-copy-trading-bot.git
+git clone https://github.com/Poly-Tutor/polymarket-copy-trading-bot.git
 cd polymarket-copy-trading-bot
 
 # 3. Copy and configure .env file
@@ -86,7 +86,7 @@ cargo --version
 ### 2.4 Clone Repository
 
 ```bash
-git clone https://github.com/gabagool23/polymarket-copy-trading-bot.git
+git clone https://github.com/Poly-Tutor/polymarket-copy-trading-bot.git
 cd polymarket-copy-trading-bot
 ```
 
@@ -571,7 +571,7 @@ The bot creates several files for logging and caching:
 For questions or issues:
 - Review [Documentation](#9-documentation)
 - Check [Troubleshooting Guide](docs/06_TROUBLESHOOTING.md)
-- Contact via Telegram: [@gabagool21](https://t.me/gabagool21)
+- Contact via Telegram: [@AlterEgo_Eth](https://t.me/AlterEgo_Eth)
 
 ---
 
